@@ -1,0 +1,9 @@
+path: D:/ComVis/helm_detection/data/v1
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+
+names: ["helmet", "unhelmet"]
